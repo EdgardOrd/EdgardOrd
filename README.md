@@ -13,9 +13,9 @@ I'm currently working on my own projects ✍<br>I'm looking to collaborate with 
 [![](https://visitcount.itsvg.in/api?id=EdgardOrd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgardord&show_icons=true&locale=en&layout=compact" alt="edgardord" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgardord&theme=matrix&show_icons=true&locale=en&layout=compact" alt="edgardord" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edgardord&show_icons=true&locale=en" alt="edgardord" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edgardord&theme=matrix&show_icons=true&locale=en" alt="edgardord" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
